@@ -34,4 +34,20 @@ Perskirstymu skaicius su 100000000:
 std::vector: 27
 Custom Vector: 26
 
+Spartos analize V2.0:
+
+
+
+|VEKTORIUS                         | std::vector | Custom Vector |
+|----------------------------------|------------|-------------|
+|NUSKAITYMAS                       | 0.16243 s. | 0.1585 s. |
+|RUSIAVIMAS PAGAL PAVARDES         | 0.0716114 s. | 0.0723249 s. |
+|RUSIAVIMAS I DVI GRUPES           | 0.0184189 s. | 0.0200033 s. |
+|FAILO TESTO LAIKAS                | 0.357018 s. | 0.354925 s. |
+|VISA PROGRAMA VEIKE               | 0.367392 s. | 0.367198 s. |
+
+Isvada. Programos veikimo laikas skiriasi nezymiai
+
+
+
 
